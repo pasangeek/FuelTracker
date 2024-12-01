@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FuelTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update">Update</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="history">History</string>
 </resources>
