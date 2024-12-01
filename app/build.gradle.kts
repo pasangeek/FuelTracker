@@ -56,4 +56,11 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    // Bottom Navigation Bar
+    implementation  (libs.bubbletabbar)
+    // MotionToast
+    implementation (libs.motiontoast)
+    // MPAndroidChart
+    implementation (libs.mpandroidchart)
 }
